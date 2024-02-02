@@ -1,9 +1,12 @@
 /* Styling the Body element 
 		i.e. Color, Font, Alignment */
 		body {
-			background-color: #05c46b;
+			background-image: url("https://img.freepik.com/free-photo/autumn-leaf-falling-revealing-intricate-leaf-vein-generated-by-ai_188544-9869.jpg");
 			font-family: Verdana;
 			text-align: center;
+		}
+		h1{
+			color: whitesmoke;
 		}
 
 		/* Styling the Form (Color, Padding, Shadow) */
